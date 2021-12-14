@@ -6,6 +6,6 @@ IdentityServer<br>
 RabbitMQ (Transaction= Eventual consistency)<br>
 Entityframework & Dapper<br>
 Mongo & Postgresql & Mssql & Redis<br>
-<br><br>
+<br>
 
 ![microservice](https://i.hizliresim.com/39omgzj.png)
