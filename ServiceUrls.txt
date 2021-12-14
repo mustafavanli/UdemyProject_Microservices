@@ -1,0 +1,19 @@
+----------------------------
+
+Services :
+	Catalog - 5001
+	Photostock - 5003
+	Basket - 5004
+	Discount - 5005
+	Order - 5006
+	FakePayment - 5007
+IdentityServer:
+	FreeCourse.IdentityServer = 5002
+
+----------------------------
+
+Gateway PORT = 5010
+
+project : 5ea8594d-1b74-45b5-9396-fc2f97d4c369
+EMPLOYEEE :6ec58c36-0b9a-49df-8ca0-7e1cd125bfc8
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ2YW5saW11c3RhZmEwQGdtYWlsLmNvbSIsImp0aSI6IjU5ZTc5ZWY0LWIyOGMtNGYwYS05NThhLWVmN2U1YzYyMjVlZSIsImlhdCI6MTYzOTM4MzYzNSwidXNlcl9pZCI6ImQyMjNjZTkyLTcyNjgtNGFkMS1hODIzLWZjNWI4NDk1YTY3MyIsInVzZXJfbmFtZSI6InZhbmxpbXVzdGFmYTBAZ21haWwuY29tIiwidXNlcl90eXBlIjoiQm9zcyIsImNvbXBhbnlfaWQiOiJiMmI4NTIxOC1hOTE1LTRkYTEtODAwNS00NDk3MTU3N2QyMDciLCJuYW1lIjoiTXVzdGFmYSB2YW5sxLEiLCJjdXJyZW5jeV9pZCI6IjMiLCJuYmYiOjE2MzkzODM2MzUsImV4cCI6MTYzOTQxMjQzNSwiaXNzIjoidHVsd29yayIsImF1ZCI6InR1bHdvcmsifQ.qsGCkHR0L9KRPafDixJO1-C4hqNu6vQ0RKIUBG9yDnI
